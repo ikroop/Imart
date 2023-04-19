@@ -1,0 +1,44 @@
+.product_details {
+    margin-top: 50px;
+}
+.product_details h2 {
+    font-size: 1.8rem;
+}
+.product_rating span i {
+    color:coral;  
+}
+.product_price {
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.buy_btn{
+    color: white;
+    background-color: var(--primary-color);
+    padding: 13px;
+    border-radius: 8px;
+    border: none;
+}
+.tab-wrapper h6{
+    color: var(--primary-color);
+    font-weight: 500;
+    font-size: 1rem;
+    cursor: pointer;
+}
+.active_tab{
+    font-weight: 600;
+}
+.tab_content p {
+    line-height: 30px;
+}
+
+.review_wrapper ul li span {
+    color:coral;
+    font-weight: 600;
+}
+.review_wrapper ul li p {
+    margin-top: 10px;
+}
+.related_title {
+    font-size: 1.4rem;
+    font-weight: 600;
+}

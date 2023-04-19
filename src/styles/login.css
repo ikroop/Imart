@@ -1,0 +1,33 @@
+.auth_form{
+    background: var(--primary-color);
+    padding: 40px;
+    border-radius: 5px;
+    margin: 40px;
+}
+
+.login_btn{
+    background:#fff;
+    color: var(--primary-color);
+    font-weight: 600;
+    margin:20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+.form_group input{
+    width: 100%;
+    padding: 5px;
+}
+.auth_form p{
+    margin-top: 30px;
+}
+.auth_form p a{
+    /* color: rgba(255, 255, 255, 0.735); */
+    color: #fff;
+    text-decoration: underline;
+}
+.auth_form p a:hover{
+    /* color: rgba(255, 255, 255, 0.735); */
+    color: lightgreen; 
+    text-decoration: underline;
+}
